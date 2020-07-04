@@ -2,6 +2,11 @@
   "name": "youtube-syncer",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Puncoz Nepal",
+    "url": "https://github.com/puncoz-official/youtube-video-syncer"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
